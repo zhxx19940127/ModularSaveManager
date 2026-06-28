@@ -27,7 +27,7 @@ SaveList / SaveDictionary  用于集合结构变化时自动 MarkDirty
 ## 目录结构
 
 ```text
-Assets/Scripts
+Scripts
 ├── ModularSaveManager
 │   ├── Main
 │   │   ├── ModularSaveManager.cs
